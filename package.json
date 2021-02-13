@@ -1,0 +1,23 @@
+{
+  "name": "easybank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimaier89/easybank.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimaier89/easybank/issues"
+  },
+  "homepage": "https://jimaier89.github.io/easybank",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
